@@ -1,0 +1,35 @@
+[1.2.3.7]
+- [FIX] Changes to the background color weren't preserved upon restarting the program
+
+[1.1.3.5]
+- [FIX] Program wouldn't detect activation details outside of the modules folder
+
+[1.1.3.4]
+- [FIX] Since the last update, archives/PDFs could not be opened
+
+[1.1.2.4]
+- [FIX] Program would crash when loading images for some users
+- [MISC] The program now remembers the visibility states of the filebrowser/toolbar
+
+[1.1.1.4]
+- [FIX] Activation verification would fail if opening file using "Open with..." 
+
+[1.1.1.3]
+- [FIX] Fixed crash when loading invalid/empty image files
+- [FIX] Fixed bug where second image would load when opening next directory
+- [FIX] Menu bookmarks updated when changes made in Bookmark Manager
+- [FIX] Fixed jerky image dragging
+- [FIX] Buffer would stop if met with invalid/empty image files
+- [NEW] Added Folder > Open in Windows Explorer
+- [NEW] Double-clicking status bar opens current directory in Windows Explorer
+- [NEW] Option to set current directory as home directory
+- [NEW] Added smooth scrolling (can be disabled under Options)
+- [NEW] Added "All Pages" view mode
+- [NEW] Option to show hidden files/directories
+- [MISC] Spacebar loads next page even if image panel isn't focused
+- [MISC] Changed fonts for more-attractive interface
+- [MISC] Added buffer progress bar
+- [MISC] Various UI/bug fixes
+
+[1.1.3.5]
+- [NEW] Added the ability to search by tags
